@@ -28,14 +28,14 @@ div.green {
 div.purple {
   background-color: purple;
 }
-
-.invisible {
-  display: none;
-}
-
-.visible {
+div.visible {
   display: block;
   border: 3px black dashed;
   border-radius: 0;
   background-color: white;
 }
+
+.invisible {
+  display: none;
+}
+
